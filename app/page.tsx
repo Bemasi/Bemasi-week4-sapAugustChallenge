@@ -111,16 +111,17 @@ export default async function Home() {
           JD
         </div>
         
-        <h1 className="text-2xl font-bold">John Doe</h1>
-        <p className="text-slate-400 mb-6">Full Stack Developer</p>
+        <h1 className="text-2xl font-bold">Benjamin Mato</h1>
+        <p className="text-slate-400 mb-6">Software Engineer</p>
+        <p className="text-slate-600 mb-5">Specialised in SAP ABAP and BTP</p>
         
         {/* Action Buttons */}
         <div className="flex flex-col gap-3">
-          <a href="https://github.com" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
-            GitHub
+          <a href="https://github.com/Bemasi" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
+            My GitHub
           </a>
-          <a href="https://linkedin.com" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
-            LinkedIn
+          <a href="https://www.linkedin.com/in/benjamin-mato/" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
+            My LinkedIn
           </a>
 
           <form action={submitToCap}>
