@@ -107,8 +107,8 @@ export default async function Home() {
         ) : null}
 
         {/* Profile Image placeholder */}
-        <div className="w-24 h-24 bg-blue-500 rounded-full mx-auto mb-4 flex items-center justify-center font-bold text-2xl">
-          JD
+        <div className="w-24 h-24 bg-green-500 rounded-full mx-auto mb-4 flex items-center justify-center font-bold text-2xl">
+          BM
         </div>
         
         <h1 className="text-2xl font-bold">Benjamin Mato</h1>
